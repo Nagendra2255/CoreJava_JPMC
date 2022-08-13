@@ -40,7 +40,7 @@ class my extends abstract1
 	{
 		System.out.println("subclass implementation");
 	}
-	public  void method2(int a)
+	public  void method2(int b)
 	{
 		System.out.println("Welcome..."+a);
 	}
